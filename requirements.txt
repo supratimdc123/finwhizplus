@@ -1,0 +1,13 @@
+flask
+pandas
+scikit-learn
+yfinance
+nltk
+transformers
+torch
+joblib
+matplotlib
+seaborn
+tweepy
+requests
+-e .
