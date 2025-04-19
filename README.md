@@ -51,5 +51,4 @@ finwhiz/
 ├── setup.py
 └── README.md
 ```
-
 ### CURRENTLY UNDER DEVELOPMENT !!!
