@@ -4,8 +4,6 @@ FinWhiz+ is a powerful stock forecasting application that uses historical price 
 
 Deployed using **Flask + Azure Web App**, this project demonstrates full-stack machine learning engineering: from data ingestion and preprocessing to model training, prediction, and web deployment.
 
-## UNDER DEVELOPMENT !!!
-
 ---
 
 ## 📊 Features
@@ -52,3 +50,6 @@ finwhiz/
 ├── requirements.txt
 ├── setup.py
 └── README.md
+```
+
+### CURRENTLY UNDER DEVELOPMENT !!!
